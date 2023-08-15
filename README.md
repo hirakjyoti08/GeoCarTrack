@@ -58,5 +58,5 @@ The script will display a graphical representation of the map divided into recta
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+OSMnx is open-source software licensed under the MIT License.
 
